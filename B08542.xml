@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strage and wonderful prophesies foretelling the alterations of the time and also the change that will happen in the world, at first what wonderful things will come to pass concerning this kingdom to the great amazement of all mankind, secondly one strange and wonderful prophesie which particularly does mention what shall happen yearly to several kingdoms in the world both by sea and land / by Dr. Bouram</title>
+            <author>Bouram, Strage, Dr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08542</idno>
+            <idno type="STC">Wing B3837B</idno>
+            <idno type="STC">ESTC R175568</idno>
+            <idno type="EEBO-CITATION">61296880</idno>
+            <idno type="OCLC">ocm 61296880</idno>
+            <idno type="VID">180470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180470)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strage and wonderful prophesies foretelling the alterations of the time and also the change that will happen in the world, at first what wonderful things will come to pass concerning this kingdom to the great amazement of all mankind, secondly one strange and wonderful prophesie which particularly does mention what shall happen yearly to several kingdoms in the world both by sea and land / by Dr. Bouram</title>
+                  <author>Bouram, Strage, Dr.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Dr. Strage [sic] Bouram. Cf. Wing (2nd ed.).</note>
+                  <note>"Sent in a letter to a merchant in London with allowance according to order."</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: pages creased with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180470:1"/>
+            <pb facs="tcp:180470:1"/>
+            <p>Strage and Wonderful PROPHESIES Foretelling The Alterations of the Time <hi>As alſo the Changes that will happen in the World.</hi>
+            </p>
+            <p>As <hi>Firſt,</hi> What Wonderful things will come to paſs concerning this Kingdom; to the great A<g ref="char:EOLhyphen"/>mazement of all mankind.</p>
+            <p>
+               <hi>Secondly,</hi> One ſtrange and wonderful Propheſie, which particularly does mention what ſhall happen Yearly to ſeveral Kingdoms in the VVorld, both by Sea and Land.</p>
+            <p>
+               <hi>By</hi> that Famous Aſtrologer Dr. <hi>Bouram,</hi> Student in Phiſick and <hi>Aſtrology,</hi> and others Profound Aarts and Sciences, Living near <hi>Darford</hi> in <hi>Kent.</hi>
+            </p>
+            <p>In the Year, 1696.</p>
+            <p>Sent in a Letter to a Merchant in <hi>London</hi>
+            </p>
+            <p>With Allowance according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>N P.</hi> in <hi>Fleetſtreet.</hi>
+            </p>
+         </div>
+         <div type="argument">
+            <pb n="2" facs="tcp:180470:2"/>
+            <head>Strange and VVonderful Propheſies, &amp;c.</head>
+            <p>Relating what paſt, preſent, and to come, particularly concerning the Subduing o <hi>France,</hi> and the downfall of the Ty<g ref="char:EOLhyphen"/>rant the <hi>French King.</hi>
+            </p>
+            <p>Propheſies and Prognoſtications have been in all Ages of the World Eſteemed by Au<g ref="char:EOLhyphen"/>thors of the greateſt Credit imaginable, and great regard has been formerly had to them, and ſeveral of them (ſince the Pro<g ref="char:EOLhyphen"/>phets, Apoſtles, and Evangeliſts fell a ſleep) has been extraordinary token notice of, which according have ſo fallen out as they were predicted by Men of Sence and Know<g ref="char:EOLhyphen"/>ledge in the Coeleſtial Orders.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:180470:2"/>
+            <head>PROPHESIES Written by <hi>Dr. Bouram,</hi> Student in Phiſick and <hi>Aſtrology</hi> and other profound Arts.</head>
+            <p>HE Propheſied in the Year 1696. How many Popes there ſhould be, giving their names ſeveral titles and matters relating of them, which hitherto has been exactly verified, there being, according to his account, twenty-five as yet to come; and that in 1896. Popery ſhall ceaſe.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:180470:3"/>
+               <head>Dr. <hi>Bouram</hi>'s Propheſie of Months, ſignify<g ref="char:EOLhyphen"/>ing what ſhall happen in the Year <hi>1696,</hi> and <hi>97.</hi> to the general Amazement of all Mankind in divers places.</head>
+               <div n="January" type="month">
+                  <head>January.</head>
+                  <p>God bleſs the Kingdom of <hi>England</hi> and the Rulers thereof, in their various Coun<g ref="char:EOLhyphen"/>ſels and Debates under conſideration, for matters of great Conſequence are now in Agitation. If the <hi>Trine</hi> of the <hi>Sun</hi> and <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> and the <hi>Trine</hi> of <hi>Mors</hi> and <hi>Mercury</hi> be of any Credit, the moſt generous and active Spirits of on Nation act vigorouſ<g ref="char:EOLhyphen"/>ly, not only to prevent impending Evils, but to ſettle Affairs, and to remove their Obſtructions which at this time are in way to our Prejudice.</p>
+               </div>
+               <div n="February" type="month">
+                  <head>February.</head>
+                  <p>Good News arrives; and things ſeem to come to a happy concluſion, which have been long under conſideration. The <hi>Conjunction</hi> of <hi>Saturn</hi> and <hi>Mercury</hi> will ſti<g ref="char:EOLhyphen"/>mulate ſome ſcandalous and injurious Po<g ref="char:EOLhyphen"/>licies, Books or Writings, chiefly inten<g ref="char:EOLhyphen"/>ded by the Authors and Promoters there<g ref="char:EOLhyphen"/>of to introduce Sedition, Jealouſy &amp; fears, but the <hi>Trine</hi> of <hi>Jupiter</hi> &amp; <hi>Mercury,</hi> with the <hi>Trine</hi> of <hi>Mars</hi> and <hi>Venus</hi> will ſet all in order again.</p>
+               </div>
+               <div n="March" type="month">
+                  <pb n="5" facs="tcp:180470:3"/>
+                  <head>March.</head>
+                  <p>The main Sea ſhall boiſterouſly ſwell with mighty tempeſts, ſo that the banks being overthrown, the waves ſhall in ma<g ref="char:EOLhyphen"/>ny parts overflow their bounds, &amp; cauſe great Inundations, one Iſland ſhall be quite overflowed by the ſea, where the Double Croſs hath the Goverment, the ſins of the Prince or Rulers thereof, being ſo ex<g ref="char:EOLhyphen"/>tream high againſt the Majeſty of God.</p>
+               </div>
+               <div n="April" type="month">
+                  <head>April.</head>
+                  <p>In the South-Eaſt part of the world, a nation ſhall fight a great battle in a wrong cauſe, to defend an evil man, but the ven<g ref="char:EOLhyphen"/>geance of God will rain down ſhowers of Fire from the Throne of Heaven, and conſume that Army wholly, with all their wealth and treaſure, even as they abide in their tents.</p>
+               </div>
+               <div n="May" type="month">
+                  <head>May.</head>
+                  <p>War and blood-ſhed over all the earth, a certain nation ſhall ſend ſo many men for the wars, that it ſhall for a time be e<g ref="char:EOLhyphen"/>ven deſolate of men, ſo that twelve wo<g ref="char:EOLhyphen"/>men ſhall be glad of one man, nay, hardly procure one young man amongſt them.</p>
+               </div>
+               <div n="June" type="month">
+                  <head>June.</head>
+                  <p>So great a drought and want of water,
+<pb n="6" facs="tcp:180470:4"/>
+will appear, that multitudes of people will dye in many places for thirſt, Soul<g ref="char:EOLhyphen"/>diers ſhall not be able to carry their Ar<g ref="char:EOLhyphen"/>mour, the Earth ſhall be ſo dry and ſo parched with the Sun, that it ſhall not yield ought to feed the Cattle.</p>
+               </div>
+               <div n="July" type="month">
+                  <head>July.</head>
+                  <p>A terrible Sea Fight, ſuch as has not been before, cauſing the waters to look more red than the Red-Sea, the water all turning like blood.</p>
+               </div>
+               <div n="August" type="month">
+                  <head>Auguſt.</head>
+                  <p>Great <hi>Plagues and mortality</hi> will cover the face of the earth, <hi>and ſo deſtroy man<g ref="char:EOLhyphen"/>kind,</hi> that there will want Labourers to get in Harveſt, or the fruits of the earth.</p>
+               </div>
+               <div n="September" type="month">
+                  <head>September.</head>
+                  <p>The ſeaſon of this month will be unna<g ref="char:EOLhyphen"/>tural, and the Earth ſo unfit for tillage, that Cattle will rot on the ground, <hi>which will</hi> breed ſuch ſtore of Flies and Vermin, that the Earth <hi>will</hi> be impoyſoned, and re<g ref="char:EOLhyphen"/>ceive no Fruit to increaſe.</p>
+               </div>
+               <div n="October" type="month">
+                  <head>October.</head>
+                  <p>A great Famine and Dearth of Corn <hi>will</hi> over-ſpread ſome nations of <hi>Europe,</hi> ſo that the Child ſhall ſtarve at the Mo<g ref="char:EOLhyphen"/>thers breaſt, the mother having no food to nouriſh her ſelf.</p>
+               </div>
+               <div n="November" type="month">
+                  <pb n="7" facs="tcp:180470:4"/>
+                  <head>November.</head>
+                  <p>One appears unexpectedly, a great <hi>Con<g ref="char:EOLhyphen"/>queror;</hi> the world filled with the Fame of this man, who ſuddenly, like <hi>Auguſtus,</hi> gives Peace to the whole Earth.</p>
+               </div>
+               <div n="December" type="month">
+                  <head>December.</head>
+                  <p>All wars end, Religion truly Preached Univerſally over the world; a general Peace, no more treaſon or rebellion, not long after, the trumpet ſounds, and the world diſſolves.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Another by the ſame Aſtrologer.</head>
+               <p>An antient friend of his asking him, a<g ref="char:EOLhyphen"/>mongſt other diſcourſe, what he thought of a perſecution of the church, of which he had <hi>heard ſome ſo earneſtly ſpeake?</hi> to which the Aſtrologer feeling reply'd, <hi>that ſuch a Perſecution</hi> was to come upon the church of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> as like<g ref="char:EOLhyphen"/>wiſe upon <hi>all</hi> the proteſtants of <hi>Europe,</hi> &amp; that he might certainly expect it, to <hi>which</hi> the Gentleman anſwered, <hi>that he believed</hi> the civil wars might have terminated the Prediction, to which he anſwered, no, for that it ſhould be by the Papiſts, ſaying, <hi>Fool not your ſelf, for</hi> I <hi>tell you, all that you</hi>
+                  <pb n="8" facs="tcp:180470:5"/>
+have yet ſeen, has been but a beginning of ſorrow, to what is yet to come upon the Proteſtant Churches of Chriſt, who will, e're long fall under a ſharper Perſecution than has been ever yet upon them, and a Worſhipper in the temple for <hi>Chriſt will</hi> meaſure thoſe that profeſs his Name, and call themſelves his people, &amp; the outward <hi>worſhippers</hi> he will leave out to be trodden down by the <hi>Gentiles,</hi> the outward court, ſays he, is the Formal Chriſtian, whoſe re<g ref="char:EOLhyphen"/>ligion lies in <hi>performing</hi> the out-ſide duty of Chriſtianity, without having inward Life and power of Faith &amp; love, uniting them to <hi>Chriſt,</hi> &amp; thoſe God will leave to be trodden down &amp; ſwept away by the <hi>Geotiles.</hi> but the worſhippers within the temple, are thoſe who indeed worſhip <hi>God</hi> in ſpirit and in truth, whoſe ſouls are made his temples, and he is honoured and <hi>adored in the moſt inward thoughts</hi> of their hearts and ſacrsfice their luſts and vile affections, yea, &amp; their own wills to him; and theſe God will hide, whilſt the Evil be over-paſt, and this ſhall be one great difference between this laſt &amp; all other <hi>proceeding Perſecutions, for in the former the moſt Eminent</hi> miniſters &amp; pious Chriſti<g ref="char:EOLhyphen"/>ans
+<pb n="9" facs="tcp:180470:5"/>
+did ſuffer moſt, but in this laſt Perſe<g ref="char:EOLhyphen"/>cution they ſhould be <hi>preſerved of God</hi> as a ſeed, to partake of that glory <hi>which ſhall</hi> immediately after come upon the church, even as ſoon as the ſtorm is blown over; for as it ſhall be the ſharpeſt, ſo it ſhall be the ſhorteſt p<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſ<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>i<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; ſhall only take away the groſs Hypo<g ref="char:EOLhyphen"/>crites, and formal Profeſſors, but the true Spiritual believers ſhall be preſerved till the dreadful Calamity ceaſe.</p>
+            </div>
+            <div type="part">
+               <head>This famous Astrologer did likewiſe predict the Destruction of a great many Cities &amp; towns in <hi>France.</hi>
+               </head>
+               <p>
+                  <q>That <hi>William</hi> of <hi>Naſſaw,</hi> King of <hi>Great Britain,</hi> ſhould <hi>ſail over into his</hi> territory of <hi>France,</hi> &amp; ſhould make a great Con<g ref="char:EOLhyphen"/>queſt there, &amp; reduce his Rebellious ſubjects intirely to his Obedience, and that <hi>James Stuart</hi> (the late Monarch, for not walking in the ways of his Father) ſhould be taken priſoner, &amp; ſo remain for ſix months, &amp; then fall ſick &amp; dye. But yet the wars among the <hi>European</hi> Princes would not be ended for <hi>one</hi> year after, till another great perſon was ſub<g ref="char:EOLhyphen"/>dued,
+<pb n="10" facs="tcp:180470:6"/>
+which ſhall be looking over a Ca<g ref="char:EOLhyphen"/>ſtle-wall, and a ſhot ſhall take him thro' the head, and then the Caſtle ſhall be ſurrendred upon terms, and all other places that ſtood out ſhould immediatly ſurrender; ſo that then <hi>England, Scot<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the nations that God will delight in, and bleſs them with peace for many years.</q>
+               </p>
+            </div>
+            <div type="part">
+               <head>Another strange and wonderful Propheſie.</head>
+               <p>IT is not unknown to moſt who are pleaſed to take cognizance of wonders and ſtrange miracles, which this preſent age doth frequently repreſent, that of late years we have been exceedingly aſtoniſht at ſeveral (to us ſtrange and ſeldom heard of) much to be admired wonders But now prepare your ears to hear the moſt amazing and moſt unparalel'd miracle that ever <hi>England</hi> was made ſenſible of, or <hi>I</hi> think the whole world was ever made acquainted with; nay, ſo wonderfully ſtrange, and ſeemingly impoſſible to be true, that though it be atteſted with ma<g ref="char:EOLhyphen"/>nifold aſſertions it cannot lodge in the breaſt of the incredulous, as an unqueſti<g ref="char:EOLhyphen"/>onable
+<pb n="11" facs="tcp:180470:6"/>
+verity. But to proceed to the mat<g ref="char:EOLhyphen"/>ter intended, and not too much to dero<g ref="char:EOLhyphen"/>gate from my deſigned buſineſs, let this inform the moſt doubtful &amp; unbelieving Reader, that there is lately an account Tent from <hi>Flanders</hi> of the ſtrange manner of the coming of one man into a City of <hi>Germany</hi> eminently known by many tra<g ref="char:EOLhyphen"/>vellers, to be one of the Cities not leſt ac<g ref="char:EOLhyphen"/>counted of in <hi>Germany,</hi> this perſon of ſuch an age (as he ſays he is) no leſs to be ad<g ref="char:EOLhyphen"/>mired for his great age, than for his ſtrange kind of Propheſies, which he dai<g ref="char:EOLhyphen"/>ly parts with; and his manner of coming into the City, which we are informed was inviſible; but to come to particulars, this perſon doth affirm, that his age is greater than ere was heard of, for he doth ſay he is above two hundred and fifty year old; and ſays that he hath the ſpirit of truth in him; with many other aſſertions, no leſs full of wonder than that you have al<g ref="char:EOLhyphen"/>ready heard of in the preceeding lines: His manner of apparel is no leſs to be ad<g ref="char:EOLhyphen"/>mired than his manner of diſcourſe, of <hi>ſuch</hi> habit as we are informed he doth wear, was never ſeen by mortal eyes, his De<g ref="char:EOLhyphen"/>portment is alſo very ſtrange, for he
+<pb n="12" facs="tcp:180470:7"/>
+walks up and down the City, preaching and admoning to ſerious Repentance, and giving admirable advice to the people to forſake their iniquities, &amp; to return from their evil ways, <hi>For</hi> (ſays he) <hi>the wrath of</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. He al<g ref="char:EOLunhyphen"/>ſo adds, that the City of <hi>Rome</hi> is a ſecond <hi>Sodom;</hi> and that the tranſgreſſions of the people have aſcended up to the Heavens, and approached the ears of the Almighty and that nothing can preſerve them from approaching miſery, but ſpeedy and un<g ref="char:EOLhyphen"/>feigned Repentance; without which, he doth aſſert, and in three years the City ſhall be utterly deſtroyed and conſumed by fire: by our laſt advice we are infor<g ref="char:EOLhyphen"/>med that this man had continued there for the ſpace of eight days, preaching a<g ref="char:EOLhyphen"/>bout the City: the Magiſtrates being of<g ref="char:EOLhyphen"/>fended at his Doctrine, have forbid him to preach; but he took no more notice of it than to return this anſwer, <hi>that he was ſent from God to move the people to Repen<g ref="char:EOLhyphen"/>tance, and to abandon thoſe iniquities, which if not deſerted, would doubtleſly pull down ven<g ref="char:EOLhyphen"/>geance upon them in a ſhort time.</hi> After this order was given for his confinement; which being performed, he was frequently
+<pb n="13" facs="tcp:180470:7"/>
+viſited by ſeveral Jeſuites, who diſcourſed with him in ſeveral tongues, namely, the <hi>Latin, Hebrew,</hi> and <hi>Caldean,</hi> wherein he was exquiſitely perfect. He alſo acknow<g ref="char:EOLhyphen"/>ledges that he knows well ſuch as live looſe and wicked lives He is not over curious in his Dyet, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cate and general food is nothing but dry bread; and his ſtrongeſt drink is water only. He propheſies of many ſtrange things, and the time when all the wicked<g ref="char:EOLhyphen"/>neſs in the world ſhould have an end, &amp; every one ſhall ſerve the Lord and wor<g ref="char:EOLhyphen"/>ſhip the God of Heaven; then nation ſhall no more riſe againſt nation, nor Kingdom againſt Kingdom, all the world ſhall be at peace: being asked by ſome of the amazing people, whoſe aſtoniſh<g ref="char:EOLhyphen"/>ments were as great as his anſwers <hi>ſtrange</hi> How long it would be before this bleſſed day would come? his reply was abſolute, &amp; about the 1699 ſhould certainly be the end of all wickedneſs in the world: all Nations ſhall live in the fear of the Lord, all the world ſhall be at peace. His ſtrange and unknown coming into this City was admired by all; at laſt he was examined by the Magiſtrates from whence
+<pb n="14" facs="tcp:180470:8"/>
+he came: he anſwered, that he came from a place called <hi>Galadiam</hi> in <hi>Damas,</hi> a City of <hi>Gallilea,</hi> and a meſſenger of the <hi>Almigh<g ref="char:EOLhyphen"/>ty,</hi> ſent to preach Repentance to the ſinful world. but the Jeſuits not at all pleaſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Diſcourſe, have pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y perſwaded their magiſtrates to condeſcend to what they ſo earneſtly Requeſted, which is, that he is very well acquainted with what ſhall be his Porti<g ref="char:EOLhyphen"/>on, and what ſhall become of him; and that he looked upon it altogether unne<g ref="char:EOLhyphen"/>ceſſary to be ſo loaded with queſtions but did acknowledge that he was very deſi<g ref="char:EOLhyphen"/>rous to ſee the Pope, and ſo without any difficulty and with great eaſe, breaking out into a paſſion, he filled the Spectators with aſtoniſhment, as Report of the won<g ref="char:EOLhyphen"/>ders will certainly fill with amazement, all thoſe to whom this matter ſhall be communicated.</p>
+            </div>
+            <div type="part">
+               <head>He alſo Propheſied as here follows.</head>
+               <p>A Certain Prince as Religious as a <hi>Turk,</hi> ſhall overſpread that Peoples territories, and War &amp; Deſolation will be occaſioned by the unruly Nobility,
+<pb n="15" facs="tcp:180470:8"/>
+who by their Civil Diſſentions ſhall oc<g ref="char:EOLhyphen"/>caſion the Ruin of the <hi>French</hi> monarcy? and if you would know near the time of this great mutation, it ſhall be when a certain King called <hi>William</hi> is twice made a King, and a Duke of <hi>Florence</hi> turns Pro<g ref="char:EOLhyphen"/>teſtant, this Propheſie ſeems to hint at the preſent juncture, though written ſo many years ſince, in conſideration the <hi>Engliſh</hi> &amp; <hi>Scotiſh</hi> Nation have unanimouſ<g ref="char:EOLhyphen"/>ly proclaimed &amp; ſubmitting their crowns to <hi>William Henry</hi> his preſent majeſty; ſo <hi>that he may be ſaid twice to be made a King.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:180470:9"/>
+            <p>
+               <figure>
+                  <figDesc>Zodiac Man</figDesc>
+                  <head>♈ ♊ ♌ ♎ ♐ ♒ ♓ ♑ ♏ ♍ ♋ ♉</head>
+               </figure>
+            </p>
+            <pb facs="tcp:180470:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
